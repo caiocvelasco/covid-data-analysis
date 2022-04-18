@@ -10,4 +10,4 @@ Please check this project @ [GitHub page](https://caiocvelasco.github.io/) or @ 
 
 ### Problem Definition
 
-A client would like to understand some important patients' cardio-related descriptive statistics.
+A client would like to understand some important patients' covid descriptive statistics.
