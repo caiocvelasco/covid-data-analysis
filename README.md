@@ -1,1 +1,13 @@
-# covid-data-analysis
+# Covid Data Analysis
+-> To check all the coding and analysis of this project, just click on the Jupyter Notebook above!
+
+## Brief Overview
+
+### Project Development
+This project was developed locally with Visual Studio Code and GitHub version control.
+
+Please check this project @ [GitHub page](https://caiocvelasco.github.io/) or @ [GitHub Repository - Cardio Data Analysis]().
+
+### Problem Definition
+
+A client would like to understand some important patients' cardio-related descriptive statistics.
